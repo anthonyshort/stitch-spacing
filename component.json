@@ -1,5 +1,13 @@
 {
   "name": "stitch-spacing",
   "version": "0.1.0",
-  "main": "_stitch-spacing.sass"
+  "description": "Generate spacing classes for easy layouts",
+  "author": "Anthony Short",
+  "repo": "anthonyshort/stitch-spacing",
+  "files": [
+    "index.sass"
+  ],
+  "dependencies": {
+    "stitch-utils": "*"
+  }
 }
